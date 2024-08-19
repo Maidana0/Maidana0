@@ -37,12 +37,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,astro" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java," />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,nestjs,django," />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,express,nestjs,django,astro" />
   </a>
 </p>
 <p align="center">
